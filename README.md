@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <b>Reddy Venkata Santhosh</b></h1>
-<h3 align="center">🎯 Data Analyst Trainee | Full Stack Developer | AI & ML Enthusiast</h3>
+<h3 align="center">🎯 Data Analyst Trainee | Full Stack Developer | AI & ML Enthusiast</h3> 
 
 <p align="center">
   <a href="https://github.com/Santhosh1234Clouds"><img src="https://komarev.com/ghpvc/?username=Santhosh1234Clouds&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /></a>
